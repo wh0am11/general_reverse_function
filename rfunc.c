@@ -48,7 +48,7 @@ return -1;
 else printf("%d\n",result);
 
 }
-else fprintf(stderr,"Invalid arguments provided\n");
+else fprintf(stderr,"Invalid arguments provided, Usage: ./rfunc [number] [number of digits]\n");
 
 
 return 0;
